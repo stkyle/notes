@@ -1,0 +1,1 @@
+trex -a ethash -o stratum+ssl://eu1.ethermine.org:5555 -u 0xeD45E2778c3D409463A84DdF8e19be0cA2271F68 -p x -w dep58 --time-limit 208800 -b 0 --api-bind-http 0 -q
